@@ -16,8 +16,6 @@ STEP-4: Group the plain text in pairs and match the corresponding corner letters
 STEP-5: Display the obtained cipher text.
 
 ## PROGRAM:
-
-    '''python
     def toLowerCase(text):
     	return text.lower()
     
@@ -169,7 +167,6 @@ STEP-5: Display the obtained cipher text.
     	CipherText += i
     print("CipherText:", CipherText)
 
-    '''
 
 ## OUTPUT:
 
